@@ -1,0 +1,9 @@
+find_files fehlerhaft!
+
+entweder warten auf rename von part1 oder weiter rar.log durchsuchen. bei kleinen parts ist rar.log sonst zu schnell.
+
+find_files muss auch ein einzelnen part zuverlaessig finden.
+
+klappt alles noch nicht so richtig...
+
+upload() muss noch implementiert werden!
