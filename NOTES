@@ -4,6 +4,4 @@ entweder warten auf rename von part1 oder weiter rar.log durchsuchen. bei kleine
 
 find_files muss auch ein einzelnen part zuverlaessig finden.
 
-klappt alles noch nicht so richtig...
-
 upload() muss noch implementiert werden!
